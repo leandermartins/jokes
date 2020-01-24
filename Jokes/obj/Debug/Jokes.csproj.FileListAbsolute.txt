@@ -1,0 +1,8 @@
+C:\Users\leander.mosilva\Desktop\Jokes\Jokes\bin\Debug\Jokes.exe.config
+C:\Users\leander.mosilva\Desktop\Jokes\Jokes\bin\Debug\Jokes.exe
+C:\Users\leander.mosilva\Desktop\Jokes\Jokes\bin\Debug\Jokes.pdb
+C:\Users\leander.mosilva\Desktop\Jokes\Jokes\obj\Debug\Jokes.Form1.resources
+C:\Users\leander.mosilva\Desktop\Jokes\Jokes\obj\Debug\Jokes.Properties.Resources.resources
+C:\Users\leander.mosilva\Desktop\Jokes\Jokes\obj\Debug\Jokes.csproj.GenerateResource.cache
+C:\Users\leander.mosilva\Desktop\Jokes\Jokes\obj\Debug\Jokes.exe
+C:\Users\leander.mosilva\Desktop\Jokes\Jokes\obj\Debug\Jokes.pdb
